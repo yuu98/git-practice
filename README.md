@@ -1,4 +1,4 @@
-
+8:46
 # git-practiceConflict
 このリポジトリはGit動画講座用です．
 変えました
