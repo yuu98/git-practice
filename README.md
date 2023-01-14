@@ -1,3 +1,3 @@
 8:46
 # git-practiceConflict
-stash
+stash 練習
